@@ -1,5 +1,5 @@
 <!--
-### Hello there 👋
+### Hello there 
 My name is Rodrigo and I'm a Software Engineer.
 
 ![](https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif)
@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/robadillo)
 -->
 
-<h1 align="center">Hello there! I'm Rodrigo</h1>
+<h1 align="center">Hello there! I'm Rodrigo 👋 </h1>
 <h3 align="center">A software engineer from Mexico</h3>
 
 <p align="left"> <a href="https://twitter.com/robadillo" target="blank"><img src="https://img.shields.io/twitter/follow/robadillo?logo=twitter&style=for-the-badge" alt="robadillo" /></a> </p>
 
-- 🔭 I’m currently working on [Vendorplace, a platform to pay suppliers and charge clients 💰, @ Yaydoo](https://www.vendorplace.com/)
+- 🔭 I’m currently working on [Vendorplace](https://www.vendorplace.com/), a platform to pay suppliers and charge clients 💰, @ Yaydoo
 
 - 🌱 I’m currently learning **React, GraphQL, AWS and CI/CD 🚀**
 

@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/robadillo" target="blank"><img src="https://img.shields.io/twitter/follow/robadillo?logo=twitter&style=for-the-badge" alt="robadillo" /></a> </p>
 
-- 🔭 I’m currently working on [Vendorplace](https://www.vendorplace.com/), a platform to pay suppliers and charge clients 💰, @ Yaydoo
+- 🔭 I’m currently working at [Kavak](https://www.kavak.com/mx), specializing in the buying and selling of pre-owned cars. I lead the entire development process, from the catalog to the checkout, for car purchases.
 
-- 🌱 I’m currently learning **React, GraphQL, AWS and CI/CD 🚀**
+- 🌱 I’m currently learning **Vue, AWS and CI/CD strategies 🚀**
 
 - 💬 Ask me about **Angular, Node.js, NestJS and Anime/Manga 🤓**
 
-- ⚡ Fun fact **I know a little of Japanese, I play the guitar and I like music festivals (RIP for the moment 🥺)**
+- ⚡ Fun fact **I know a little of Japanese, I play the guitar and I like music festivals**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
